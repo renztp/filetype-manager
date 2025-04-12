@@ -23,5 +23,5 @@ filetypes:
 
 3. Run the script:
 ```bash
-python3 test.py
+python3 filewatcher.py
 ```
