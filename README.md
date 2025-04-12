@@ -1,3 +1,9 @@
+# Setup
+1. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
 # Usage
 1. Create a yaml file on `~/Documents` (change the path in the code if you want it to be somewhere else)
 2. Define the following variables in the yaml file:
